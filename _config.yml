@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.5902256
+  brandColors:
+    - '#FFFFFF'
+    - '#8E8E8E'
+    - '#16140F'
+    - '#4CD964'
+    - '#F28877'
+  rhythmicContrast: 1
+typography_spectrum: 0.8845327
+name: Ayr
