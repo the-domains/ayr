@@ -1,14 +1,29 @@
+name: Ayr
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.8845327
+title: Ayr
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  lightness: 1
-  brandStrength: 0.5902256
   brandColors:
     - '#FFFFFF'
     - '#8E8E8E'
     - '#16140F'
     - '#4CD964'
     - '#F28877'
+  brandStrength: 0.5902256
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.8845327
-name: Ayr
+purpose: []
