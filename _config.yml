@@ -1,20 +1,4 @@
-name: Ayr
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.8845327
-title: Ayr
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -26,4 +10,24 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ayr
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Melissa Ayr
+    id: 270bb3c2-ee3a-4d8c-8538-91ed86844bdf
+    type: content
+favicon: null
+title: Ayr
 purpose: []
